@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise-cancellation and 30-hour battery life.",
+      "price": 99.99,
+      "image": "https://m.media-amazon.com/images/I/41lArSiD5hL.jpg",
+      "category": "Electronics",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Latest model smartphone with a 6.5-inch display, 128GB storage, and 5G connectivity.",
+      "price": 699.99,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/26/IzcVfAu2kdJjoeYS.png",
+      "category": "Electronics",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Gaming Chair",
+      "description": "Ergonomic gaming chair with lumbar support and adjustable armrests.",
+      "price": 199.99,
+      "image": "https://www.greensoul.online/cdn/shop/files/raptor_red.png?v=1736099418",
+      "category": "Furniture",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "Electric Kettle",
+      "description": "Fast-boil electric kettle with a 1.7L capacity and auto shut-off feature.",
+      "price": 29.99,
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/40322956_2-borosil-electric-glass-kettle-with-borosilicate-glass-extra-long-cord-dry-boil-protection-360-rotating-base-transparent.jpg",
+      "category": "Home Appliances",
+      "stock": 100
+    },
+    {
+      "id": 5,
+      "name": "Yoga Mat",
+      "description": "Eco-friendly, non-slip yoga mat with a comfortable thickness of 6mm.",
+      "price": 25.99,
+      "image": "https://m.media-amazon.com/images/I/71b5fW+s18L.jpg",
+      "category": "Fitness",
+      "stock": 75
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with rich bass and up to 12 hours of playtime.",
+      "price": 49.99,
+      "image": "https://www.artis.in/cdn/shop/products/1_f5b3377c-c870-420f-bc6a-5cd4b3a5a7c7.jpg?v=1653639993",
+      "category": "Electronics",
+      "stock": 40
+    },
+    {
+      "id": 7,
+      "name": "Cookware Set",
+      "description": "10-piece non-stick cookware set made with durable, scratch-resistant materials.",
+      "price": 89.99,
+      "image": "https://m.media-amazon.com/images/I/81JUxqQr4bL.jpg",
+      "category": "Kitchen",
+      "stock": 25
+    },
+    {
+      "id": 8,
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with breathable mesh and responsive cushioning.",
+      "price": 69.99,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2024/11/runningshoes-2048px-09522.jpg?auto=webp&quality=75&width=1024",
+      "category": "Footwear",
+      "stock": 60
+    },
+    {
+      "id": 9,
+      "name": "Backpack",
+      "description": "Durable and lightweight backpack with multiple compartments and water-resistant material.",
+      "price": 49.99,
+      "image": "https://m.media-amazon.com/images/I/71qpXciYP1L.jpg",
+      "category": "Accessories",
+      "stock": 80
+    },
+    {
+      "id": 10,
+      "name": "LED Desk Lamp",
+      "description": "Energy-efficient LED desk lamp with adjustable brightness and USB charging port.",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/61bgEtzpxzL._AC_UF1000,1000_QL80_.jpg",
+      "category": "Home Office",
+      "stock": 45
+    },
+    {
+      "id": 11,
+      "name": "Espresso Machine",
+      "description": "Compact espresso machine with a built-in milk frother for barista-quality coffee.",
+      "price": 199.99,
+      "image": "https://m.media-amazon.com/images/I/71duCIUwKML._AC_UF350,350_QL80_.jpg",
+      "category": "Kitchen Appliances",
+      "stock": 15
+    },
+    {
+      "id": 12,
+      "name": "Fitness Tracker",
+      "description": "Track your workouts, steps, and heart rate with this sleek fitness tracker.",
+      "price": 79.99,
+      "image": "https://m.media-amazon.com/images/I/61YwaovfYFL.jpg",
+      "category": "Fitness",
+      "stock": 70
+    },
+    {
+      "id": 13,
+      "name": "Portable Power Bank",
+      "description": "10,000mAh portable power bank with fast charging and dual USB ports.",
+      "price": 29.99,
+      "image": "https://m.media-amazon.com/images/I/51UEoSVEu0L.jpg",
+      "category": "Electronics",
+      "stock": 100
+    },
+    {
+      "id": 14,
+      "name": "Mountain Bike",
+      "description": "High-performance mountain bike with 21-speed gearing and durable frame.",
+      "price": 599.99,
+      "image": "https://images-cdn.ubuy.co.in/653ebb40c556d711a206eabc-hyper-bicycle-men-s-29-explorer.jpg",
+      "category": "Sports",
+      "stock": 10
+    },
+    {
+      "id": 15,
+      "name": "Wireless Keyboard",
+      "description": "Slim and ergonomic wireless keyboard with long battery life.",
+      "price": 49.99,
+      "image": "https://m.media-amazon.com/images/I/71cVceZqnmL.jpg",
+      "category": "Electronics",
+      "stock": 35
+    }
+  ]
+  

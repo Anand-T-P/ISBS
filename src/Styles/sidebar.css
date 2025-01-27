@@ -1,0 +1,31 @@
+.toolbar-cls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px; /* Adds spacing on both sides */
+  }
+  
+  .toolbar-cls1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .toolbar-cls2 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-end;
+    gap: 1%;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .toolbar-cls {
+      padding: 0 8px; /* Reduce padding on smaller screens */
+    }
+  
+    .toolbar-cls2 {
+      gap: 8px; /* Reduce gap between icons */
+    }
+  }
+  
